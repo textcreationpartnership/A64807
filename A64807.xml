@@ -1,0 +1,241 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last speech and prayer with other passages of Thomas Venner, the chief incourager and promoter of the late horrid rebellion immediately before his execution in Coleman-street on Saturday last being the 19th of Ianuary, 1660 : together with the names of the rest that were condemned for the same fact.</title>
+            <author>Venner, Thomas, d. 1661.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64807</idno>
+            <idno type="STC">Wing V194A</idno>
+            <idno type="STC">ESTC R7065</idno>
+            <idno type="EEBO-CITATION">11967364</idno>
+            <idno type="OCLC">ocm 11967364</idno>
+            <idno type="VID">51764</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64807)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51764)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 521:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last speech and prayer with other passages of Thomas Venner, the chief incourager and promoter of the late horrid rebellion immediately before his execution in Coleman-street on Saturday last being the 19th of Ianuary, 1660 : together with the names of the rest that were condemned for the same fact.</title>
+                  <author>Venner, Thomas, d. 1661.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Venner, Thomas, d. 1661.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:51764:1"/>
+            <pb facs="tcp:51764:1"/>
+            <p>The laſt Speech and Prayer with other Paſſages of Thomas Venner</p>
+            <p>The Chief Incourager and Pro<g ref="char:EOLhyphen"/>moter of the late Horrid Rebellion, immedi<g ref="char:EOLhyphen"/>ately before his Execution in <hi>Coleman<g ref="char:EOLhyphen"/>ſtreet</hi> on Saturday laſt being the 19th of <hi>Ianuary,</hi> 1660.</p>
+            <p>Together with the names of the reſt that were con<g ref="char:EOLhyphen"/>demned for the ſame Fact.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the year, 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="scaffold_speech">
+            <pb facs="tcp:51764:2"/>
+            <pb n="3" facs="tcp:51764:2"/>
+            <head>The laſt Speech and Prayer, with other paſſages of Tho. Venner.</head>
+            <p>
+               <seg rend="decorInit">O</seg>N Saturday the nineteenth of <hi>Janu<g ref="char:EOLhyphen"/>ary</hi> one thouſand ſix hundred and ſixty, in perſuance of the judgement of the Court at the Seſſions houſe in the <hi>Old Baily,</hi> whereby ſixteen of the late Rebels were condemned to be hang'd, drawn, and quartered.</p>
+            <p>
+               <hi>Thomas Venner</hi> formerly a Cooper in <hi>London,</hi> but of late a pretended Preacher of a private Con<g ref="char:EOLhyphen"/>gregation in <hi>Coleman street,</hi> was with <hi>Roger Hoskins</hi> a Button-ſeller in <hi>Clements Lane,</hi> and a member of his Church drawn from <hi>Newgate</hi> unto <hi>Coleman<g ref="char:EOLhyphen"/>street</hi> aforeſaid upon a Hurdle, where two Gibbets were erected for their execution, being the place where they had firſt contrived, and where the ſaid Maſter <hi>Venner</hi> had firſt promoted, encouraged and at laſt unanimouſly agreed upon the late Rebel<g ref="char:EOLhyphen"/>lion and Inſurrection.</p>
+            <pb n="4" facs="tcp:51764:3"/>
+            <p>Being come to the Gallows, by reaſon of his many wounds he was taken out of the Sledge by two of the Sheriffs Officers, and led to the Ladder, being come to the foot thereof, one met him that was a brother preacher of his in former time, but of late times better inſtructed, ſpake unto him ſaying,</p>
+            <q rend="italic">Now Mr. <hi>Venner</hi> you are going to your laſt home therefore confeſs your ſinnes, and acknowledge this great fault and wickedneſs, for which you are now to dye.</q>
+            <sp>
+               <speaker>Venner.</speaker>
+               <p>I now ſpeak as I ſaid before, that what I did was according to the beſt light I had, and ac<g ref="char:EOLhyphen"/>cording to the beſt underſtanding that the Scripture will afford.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p rend="italic">But with all Gods people before death there muſt be confeſſion of ſinne according to the Scripture.</p>
+            </sp>
+            <sp>
+               <speaker>Venner.</speaker>
+               <p>There muſt be conviction before there can be confeſſion, which I cannot find in my own conſcience.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p rend="italic">But <hi>David</hi> ſaies, that we ſhould pray againſt blood-guiltineſſe, and deſires God to deliver us from it, and this ſurely muſt needs lye upon your ſpirit.</p>
+            </sp>
+            <sp>
+               <speaker>Venner.</speaker>
+               <p>Do not be an inſtrument of Satan to take
+<pb n="5" facs="tcp:51764:3"/>away that comfort I have within me now I am go<g ref="char:EOLhyphen"/>ing to dye.</p>
+            </sp>
+            <p>Upon which, command was given that they ſhould not ſpeak any farther to him.</p>
+            <p>
+               <hi>As</hi> he went up the Ladder, he uſed this ex<g ref="char:EOLhyphen"/>preſſion.</p>
+            <q rend="italic">The Lord judge between me and thee.</q>
+            <p>And being upon the Ladder, with the Rope a<g ref="char:EOLhyphen"/>bout his neck, he ſpake as followeth.</p>
+            <q>
+               <p>
+                  <hi>Friends,</hi>
+               </p>
+               <p>I Deſire in the feare of the Lord to acknowledge why I am brought to this place at this time: What I did was from the Word of the Lord, you ought to believe that the <hi>Fourth Monarchy</hi> is come, and that it is the duty of the people of God to looke for liberty: And there is one thing that lyes upon my ſpirit for the Teſtimony of <hi>King Jeſus,</hi> which is, and I doe here declare it, that I have done nothing but what was for the propagation of his Government and Rule, and for the advancement of his Kingdom, according to the light which I had given me: I have beene very much wounded, and
+<pb n="6" facs="tcp:51764:4"/>for five or ſix dayes before I came hither I thought I ſhould have dy'd, but Gods providence hath brought me hither that I might declare unto you and to all the world that I dye for the teſtimony of his truth.</p>
+               <p>Now the Lord help you and the Lord help us all to conſider really that there is no ſtanding againſt God, for he will be too hard for you: now if you be of his party it will hold and none ſhall reſiſt you, but if not, know that he can raiſe Servants out of the duſt to doe his own work.</p>
+               <p>And therefore Oh Friends doe not riſe againſt God, theſe are the laſt words I muſt ſay; but the Lord will ſpeake more by my death then by my life. Therefore all that I have to ſay to you is this, All the Doctrines that ever I have preached are truth, every word thereof was by the ſpirit of Truth, according to the word and the beſt light which I had within me, and the ſame I now ſeale with my Blood.</p>
+               <p>And therefore the Lord help you to lay it to heart and to your conſciences, and therefore Oh that I could ſpeak it, for I am faint, and indeed I cannot ſpeake.</p>
+            </q>
+            <p>Here one told him again that <hi>David</hi> deſired to be cleanſed from blood-guiltineſſe, to which Maſter <hi>Venner</hi> ſaid, how! <hi>a man blood-guilty in the ſervice of King Jeſus?</hi>
+            </p>
+            <pb n="7" facs="tcp:51764:4"/>
+            <p>Here he was deſired now he was going out of the World, to make ſome kind of confeſſion to ſhew ſome ſigne of Repentance of his fault.</p>
+            <p>To which he anſwered and ſaid, that he had no fault to confeſſe, end if what he did for the glorification of the Kingdome of <hi>Jeſus Chriſt,</hi> he was there ready to ſuffer for it.</p>
+            <p>At laſt he was bid to prepare himſelfe for death, for he had but a few minutes to live.</p>
+            <sp>
+               <speaker>Venner.</speaker>
+               <p>I will pray firſt</p>
+            </sp>
+            <p>
+               <hi>and ſo began.</hi>
+               <q>
+                  <pb facs="tcp:51764:5"/> OH Good Lord; I am coming to thee; Oh Lord forgive me? Oh Lord comfort me; in<g ref="char:EOLhyphen"/>to thy hands Oh Lord I commit my ſpirit:</q> at which words he was turned off the Ladder, and having hang'd the ſpace of a quarter of an hour, he was out down and quartered according to his Sentence.</p>
+         </div>
+         <div type="list_of_condemned">
+            <head>
+               <hi>A</hi> Liſt of the names of thoſe that are condemned to dye.</head>
+            <list>
+               <item>
+                  <hi>Roger Hoskins.</hi>
+               </item>
+               <item>
+                  <hi>Leonard Goaler.</hi>
+               </item>
+               <item>
+                  <hi>John Allen.</hi>
+               </item>
+               <item>
+                  <hi>John Pym.</hi>
+               </item>
+               <item>
+                  <hi>William Gotſingham.</hi>
+               </item>
+               <item>
+                  <hi>William Aſhton.</hi>
+               </item>
+               <item>
+                  <hi>Giles Pritchard.</hi>
+               </item>
+               <item>
+                  <hi>Rich. Martin.</hi>
+               </item>
+               <item>
+                  <hi>John Smith.</hi>
+               </item>
+               <item>
+                  <hi>Tho. Hopkins.</hi>
+               </item>
+               <item>
+                  <hi>Will. Corbet.</hi>
+               </item>
+               <item>
+                  <hi>John Elſtone.</hi>
+               </item>
+               <item>
+                  <hi>Tho. Harris.</hi>
+               </item>
+               <item>
+                  <hi>John Gardiner.</hi>
+               </item>
+               <item>
+                  <hi>John Wells,</hi>
+               </item>
+               <item>
+                  <hi>Robert Brierly.</hi>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:51764:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
